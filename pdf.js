@@ -112,14 +112,11 @@ function insertImages(images, file) {
  * @return {Promise}      resolves when the completed PDF is filled out
  */
 function fillForm(form, file) {
-	copyFile(form.src, file)
+	return copyFile(form.src, file)
 	.then(function() {
 		insertImages(form.images, file);
 		insertText(form.texts, file);
 		return fillText(form.data, file);
-	})
-	.catch(function(err) {
-		console.log(err);
 	});
 }
 
