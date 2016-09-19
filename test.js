@@ -1,3 +1,4 @@
+var assert = require('chai').assert;
 var pdf = require('./pdf');
 
 var myForm = {
@@ -43,8 +44,15 @@ var myForm = {
 	]
 };
 
-pdf.getPDFVariables(myForm.src).then(function(data) {
-	console.log(data);
+describe("pdf library test", function() {
+  it("should retrieve variables object from PDF", function() {
+    return pdf.getPDFVariables(myForm.src).then(function(result) {
+      assert.isObject(result);
+    });
+  });
+  it("should fill out PDF using form object data", function() {
+    return pdf.fillForm(myForm, "./result.pdf").catch(function(err) {
+      assert.isUndefined(err);
+    });
+  });
 });
-
-pdf.fillForm(myForm, "./result.pdf");
