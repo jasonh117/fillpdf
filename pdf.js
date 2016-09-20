@@ -46,16 +46,17 @@ function getPDFVariables(file) {
  */
 function fillText(data, file) {
 	var tempfile = "./temp.pdf";
-	return new Promise(function(resolve, reject) {
-		pdfFiller.fillFormWithFlatten(file, tempfile, data, false, function(err) {
-			if (err) {
+	return copyFile(file, tempfile)
+	.then(function() {
+		return new Promise(function(resolve, reject) {
+			pdfFiller.fillFormWithFlatten(tempfile, file, data, false, function(err) {
 				fs.unlink(tempfile);
-				reject(err);
-			} else {
-				copyFile(tempfile, file);
-				fs.unlink(tempfile);
-				resolve();
-			}
+				if (err) {
+					reject(err);
+				} else {
+					resolve();
+				}
+			});
 		});
 	});
 }
