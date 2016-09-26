@@ -11,6 +11,8 @@
   "dependencies": {
     "chai": "^3.5.0",
     "hummus": "^1.0.62",
+    "moment": "^2.15.1",
+    "mongoose": "^4.6.1",
     "pdffiller": "^0.4.0"
   }
 }

@@ -1,0 +1,842 @@
+---
+FieldType: Text
+FieldName: Loan Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: BORROWERS NAME
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: COBORROWERS NAME
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: CELL OR WORK NUMBER WITH AREA CODE
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: CELL OR WORK NUMBER WITH AREA CODE_2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MAILING ADDRESS
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: PROPERTY ADDRESS IF SAME AS MAILING ADDRESS JUST WRITE SAME
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: EMAIL ADDRESS
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Is the property listed for sale
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: If yes please complete the counselor contact information below
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: No_2
+FieldStateOption: Off
+FieldStateOption: Yes_2
+---
+FieldType: Text
+FieldName: Counselors Name
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Agencys Name
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Do you have condominium or homeowner association HOA fees Yes No Total monthly amount   Name and address that fees are paid to
+FieldNameAlt: Do you have condominium or homeowner association (HOA) fees? Yes No To
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: undefined_4
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_24
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_26
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_30
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_32
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_34
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_36
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_38
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_39
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_41
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_44
+FieldNameAlt: undefined
+FieldFlags: 4096
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_45
+FieldNameAlt: undefined
+FieldFlags: 4096
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_48
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_50
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_54
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_56
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_52
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_59
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_57
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_63
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_61
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Other_2
+FieldNameAlt: Other_
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: fill_64
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Other_4
+FieldNameAlt: Other
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_66
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Total Household Expenses and Debt
+FieldNameAlt: Total Household Expenses and Debt
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Other_5
+FieldNameAlt: Other_$
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: fill_68
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_70
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldValue: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_71
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldValue: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_73
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldValue: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Balance and Interest Rate
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Lien Holders NameRow1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Balance and Interest RateRow1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Loan NumberRow1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Lien Holders Phone NumberRow1
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Lien Holders NameRow2
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Balance and Interest RateRow2
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Loan NumberRow2
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Lien Holders Phone NumberRow2
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Lien Holders NameRow3
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Balance and Interest RateRow3
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Loan NumberRow3
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Lien Holders Phone NumberRow3
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Button
+FieldName: undefined_14
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: No hardship documentation required_3
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: No hardship documentation required_4
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Divorce decree signed by the court OR
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Separation agreement signed by the court OR
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Current credit report evidencing divorce separation or nonoccupying
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Recorded quitclaim deed evidencing that the nonoccupying Borrower or co
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Death certificate OR
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Proof of monthly insurance benefits or government assistance if applicable OR
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Doctors certificate of illness or disability OR
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Medical bills
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Insurance claim OR
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Federal Emergency Management Agency grant or Small Business Administration
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Borrower or Employer property located in a federally declared disaster area
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Copy of signed offer letter or notice from employer showing transfer to a new
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Pay stub from new employer OR
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Tax return from the previous year including all schedules AND
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Proof of business failure supported by one of the following
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Bankruptcy filing for the business OR
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Two months recent bank statements for the business account evidencing
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Most recent signed and dated quarterly or yeartodate profit and loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Written explanation describing the details of the hardship and relevant
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: Text2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Group4
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Choice1
+FieldStateOption: Choice2
+FieldStateOption: Choice3
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Group1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Choice1
+FieldStateOption: Choice2
+FieldStateOption: Choice3
+FieldStateOption: Choice4
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Group2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Choice1
+FieldStateOption: Choice2
+FieldStateOption: Choice3
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: DATE OF BIRTH
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: DATE OF BIRTH -2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Text7
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Text1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Text12
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box2
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box22
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box28
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box7
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Y1
+FieldStateOption: Y2
+FieldStateOption: Y3
+FieldStateOption: Y4
+---
+FieldType: Button
+FieldName: service member
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: 2
+FieldStateOption: 3
+FieldStateOption: No_65
+FieldStateOption: Off
+FieldStateOption: Yes_65
+---
+FieldType: Button
+FieldName: deployed
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: No_66
+FieldStateOption: Off
+FieldStateOption: Yes_66
+---
+FieldType: Button
+FieldName: surviving spouse
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: No_67
+FieldStateOption: Off
+FieldStateOption: Yes_67
+---
+FieldType: Button
+FieldName: HOA
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: No_25
+FieldStateOption: Off
+FieldStateOption: Yes_25
+---
+FieldType: Button
+FieldName: filed
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: No_6
+FieldStateOption: Off
+FieldStateOption: Yes_6
+---
+FieldType: Button
+FieldName: Check Box8
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box9
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box99
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box22222
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: length
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes_175
+FieldStateOption: Yes_176
+FieldStateOption: Yes_177
+---
+FieldType: Button
+FieldName: hardship
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes_250
+FieldStateOption: Yes_251
+FieldStateOption: Yes_252
+FieldStateOption: Yes_253
+FieldStateOption: Yes_254
+FieldStateOption: Yes_255
+FieldStateOption: Yes_256
+FieldStateOption: Yes_257
+FieldStateOption: Yes_258
+FieldStateOption: Yes_259
+---
+FieldType: Button
+FieldName: Check Box10
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: SOCIAL SECURITY NUMBER
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Amount of Offer
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SOCIAL SECURITY NUMBER_2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HOME PHONE NUMBER WITH AREA CODE
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HOME PHONE NUMBER WITH AREA CODE_2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_47
+FieldNameAlt: undefined
+FieldFlags: 4096
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_43
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box111
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box999
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box1111
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box2222
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box222
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box222222
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Written statement or other documentation verifying disability or illness OR
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Obituary or newspaper article reporting the death
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: Text6
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: If yes what is the filing Date
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Agents Phone Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Agents Name
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Mortgage Payments on other properties
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Maintenance
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Other
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Date of offer
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: If yes what was the listing date
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Counselors Email Address
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Counselors Phone Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_28
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: fill_22
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box8678686
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: yes
